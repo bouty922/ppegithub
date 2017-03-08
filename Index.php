@@ -11,7 +11,7 @@
   </head>
   <body>
     <link href="style.css">
-<?php include "navbar.php" 
+<?php include "navbar.php" ;
  include "icone.php" ?>
     
   </body>
