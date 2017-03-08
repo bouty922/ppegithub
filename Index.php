@@ -1,3 +1,4 @@
+<?php include "connectbdd.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 
