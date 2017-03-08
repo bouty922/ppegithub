@@ -1,4 +1,5 @@
-<?php include "connectbdd.php" ?>
+<?php session_start(); 
+ include "connectbdd.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,10 +10,9 @@
 
   </head>
   <body>
-<?php include "navbar.php" ?>
-
-<link href="style.css">
-<?php include "icone.php" ?>
+    <link href="style.css">
+<?php include "navbar.php" 
+ include "icone.php" ?>
     
   </body>
 </html>
