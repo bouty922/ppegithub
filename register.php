@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
     <head> 
-<<<<<<< HEAD
-=======
+
     <style>
     	.container {
 			width: 50% !important
 } </style>
 
 
->>>>>>> origin/master
+
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
 
@@ -28,36 +27,33 @@
 
 
 	</head>
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
+
+
 	<body>
 	<?php include "navbar.php"  ?>
     <?php include "head.php"  ?>
 
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
+
 	</head>
 	<body>
 		<div class="container">
 			<div class="row main">
 				<div class="panel-heading">
 	               <div class="panel-title text-center">
-<<<<<<< HEAD
+
 
 	               		<hr />
 	               	</div>
 	            </div> 
 				<div class="main-login main-center paddinginscri">
-=======
+
 	               		<hr />
 	               	</div>
 	            </div> 
 				<div class="main-login main-center">
->>>>>>> origin/master
+
 					<form class="form-horizontal" method="post" action="#">
 						
 						<div class="form-group">
@@ -65,7 +61,7 @@
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
-<<<<<<< HEAD
+
 									<input type="text" class="form-control" name="name" id="name"  placeholder="Entre ton Nom"/>
 								</div>
 							</div>
@@ -78,27 +74,27 @@
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
 									<input type="text" class="form-control" name="name" id="name"  placeholder="Entre ton prénom"/>
-=======
+
 									<input type="text" class="form-control" name="name" id="name"  placeholder="Enter your Name"/>
->>>>>>> origin/master
+
 								</div>
 							</div>
 						</div>
 
 						<div class="form-group">
-<<<<<<< HEAD
+
 							<label for="email" class="cols-sm-2 control-label">Ton e-mail</label>
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
 									<input type="text" class="form-control" name="email" id="email"  placeholder="Entre ton e-mail"/>
-=======
+
 							<label for="email" class="cols-sm-2 control-label">Ton Email</label>
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
 									<input type="text" class="form-control" name="email" id="email"  placeholder="Enter your Email"/>
->>>>>>> origin/master
+
 								</div>
 							</div>
 						</div>
@@ -108,11 +104,11 @@
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
-<<<<<<< HEAD
+
 									<input type="text" class="form-control" name="username" id="username"  placeholder="Entre ton pseudo"/>
-=======
+
 									<input type="text" class="form-control" name="username" id="username"  placeholder="Enter your Username"/>
->>>>>>> origin/master
+
 								</div>
 							</div>
 						</div>
@@ -122,11 +118,11 @@
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
-<<<<<<< HEAD
+
 									<input type="password" class="form-control" name="password" id="password"  placeholder="Entre ton password"/>
-=======
+
 									<input type="password" class="form-control" name="password" id="password"  placeholder="Enter your Password"/>
->>>>>>> origin/master
+
 								</div>
 							</div>
 						</div>
@@ -136,11 +132,11 @@
 							<div class="cols-sm-10">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
-<<<<<<< HEAD
+
 									<input type="password" class="form-control" name="confirm" id="confirm"  placeholder="Confirme ton Password"/>
-=======
+
 									<input type="password" class="form-control" name="confirm" id="confirm"  placeholder="Confirm your Password"/>
->>>>>>> origin/master
+
 								</div>
 							</div>
 						</div>
